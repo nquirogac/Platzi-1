@@ -192,7 +192,7 @@ height: 50px;
 cursor: pointer;
 }
 #shoppingCartContainer{
-    padding: 0 24px;
+    padding: 0 12px 24px;
 }
 .title-container{
     display: flex;
